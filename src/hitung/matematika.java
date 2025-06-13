@@ -17,5 +17,20 @@ public class matematika {
         return bil1 + bil2;
     }
     
+    //membuat method setPenngurangan
+    public double detPengurangan(){
+        return bil1 - bil2;
+    }
+    
+    //membuat method setPerkalian
+    public double detPerkalian(){
+        return bil1 * bil2;
+    }
+    
+    //membuat method setPembagian
+    public double detPembagian(){
+        return bil1 / bil2;
+    }
+    
     
 }
