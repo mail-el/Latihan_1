@@ -13,22 +13,22 @@ public class matematika {
     }
     
     //membuat method setPenjumlahan
-    public double detPenjumlahan(){
+    public double setPenjumlahan(){
         return bil1 + bil2;
     }
     
     //membuat method setPenngurangan
-    public double detPengurangan(){
+    public double setPengurangan(){
         return bil1 - bil2;
     }
     
     //membuat method setPerkalian
-    public double detPerkalian(){
+    public double setPerkalian(){
         return bil1 * bil2;
     }
     
     //membuat method setPembagian
-    public double detPembagian(){
+    public double setPembagian(){
         return bil1 / bil2;
     }
     
